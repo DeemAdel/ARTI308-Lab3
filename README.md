@@ -1,4 +1,4 @@
-# ARTI308-Lab2
+# ARTI308-Lab3
 
 # Heart Disease Dataset Analysis
 
